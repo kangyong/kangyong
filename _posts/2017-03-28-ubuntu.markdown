@@ -1,0 +1,11 @@
+### 查看版本
+lsb_release -a
+```
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 15.10
+Release:    15.10
+Codename:   wily
+```
+
+### 
