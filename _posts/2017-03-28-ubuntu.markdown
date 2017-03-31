@@ -76,3 +76,6 @@ auto mount /etc/fstat
 ```
 /dev/bcache0 /mapbar/ ext4 defaults 1 2
 ```
+## GPU related
+### nvcc
+if it does not work, add `/usr/local/cuda/bin` to PATH
